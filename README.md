@@ -9,7 +9,8 @@ import java.util.Scanner;
  * @Version: 12.0.1
  * 查找数组中某个元素，并返回下标
  */
-public class ArrayTest02 {
+ 
+public class ArrayTest {
     public static void main(String[] args) {
         int [] arr=new int []{-98,-22,0,4,23,26,64,100};
         Scanner  sc= new  Scanner (System.in);
